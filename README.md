@@ -52,7 +52,7 @@ The goal of CineMatch is to build an intelligent movie discovery system that hel
 
 ## 📌 Author
 
-**Abul Fahad Hasan**
+**Abul Fawad Hasan**
 
 BTech – Bharat Institute of Engineering and Technology
 
